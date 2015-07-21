@@ -1,3 +1,4 @@
 ola
 arquivo alterado
-aquivo alterado dinovo  
+aquivo alterado dinovo 
+arquivo alterado local
